@@ -19,7 +19,7 @@
     "dist:linux": "electron-builder --linux"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^30.0.0",
     "electron-builder": "^24.13.3",
